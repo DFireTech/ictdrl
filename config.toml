@@ -26,7 +26,7 @@ tabWidth = 4
 [permalinks]
 post = "/post/:year/:month/:day/:slug/"
 
-[menu.main]
+[[menu.main]]
 name = "Categories"
 url = "/categories/"
 weight = 1
@@ -41,4 +41,4 @@ url = "/index.xml"
 [params]
 custom_css = ["css/theme-override.css"]
 description = "A simple, minimal blog for those who love text."
-footer = "Open-Source | [Github](https://github.com/goodroot/hugo-classic) | [Keybase](https://keybase.io/goodroot)"
+footer = "Open-Source | [Github](https://github.com/goodroot/hugo-classic)"

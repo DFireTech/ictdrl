@@ -2,3 +2,12 @@ footer { font-size: 90%; }
 /* darkmode */
 @media (prefer-color-scheme: dark) {
 }
+
+header {
+	background: #000000;
+	
+}
+
+header a {
+	color: #F9CE08;
+}
