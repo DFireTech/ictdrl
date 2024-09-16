@@ -11,3 +11,7 @@ header {
 header a {
 	color: #F9CE08;
 }
+
+body {
+	background-image: url("../../media/examples/lizard.png");
+}
