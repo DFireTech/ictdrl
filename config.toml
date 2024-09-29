@@ -36,7 +36,7 @@ url = "/tags/"
 weight = 2
 [[menu.main]]
 name = "Wiki"
-url = "wiki.ictdrl.xyz/"
+url = "/wiki/"
 [[menu.feed]]
 name = "Subscribe"
 url = "/index.xml"
