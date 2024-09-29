@@ -34,11 +34,14 @@ weight = 1
 name = "Tags"
 url = "/tags/"
 weight = 2
+[[menu.main]]
+name = "Wiki"
+url = "wiki.ictdrl.xyz/"
 [[menu.feed]]
 name = "Subscribe"
 url = "/index.xml"
 
 [params]
 custom_css = ["css/theme-override.css"]
-description = "A simple, minimal blog for those who love text."
-footer = "Open-Source | [Github](https://github.com/goodroot/hugo-classic)"
+description = "A blog about real racing with real small cars."
+footer = "Open-Source | [Github](https://github.com/goodroot/hugo-classic) "
