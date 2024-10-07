@@ -1,5 +1,5 @@
 ---
-title ='Kester Super Speedway, Oct 6'
+title = 'Kester Super Speedway, Oct 6'
 date = 2024-10-07T00:36:24Z
 draft = false
 params
