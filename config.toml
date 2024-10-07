@@ -37,6 +37,9 @@ weight = 2
 [[menu.main]]
 name = "Wiki"
 url = "/wiki/"
+[[menu.main]]
+name = "Posts"
+url = "/post/"
 [[menu.feed]]
 name = "Subscribe"
 url = "/index.xml"
