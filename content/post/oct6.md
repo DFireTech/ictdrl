@@ -1,10 +1,10 @@
-+++
-title = 'Kester Super Speedway, Oct 6'
-date = 2024-10-07T00:36:24Z
-draft = false
-params
-  [author] = 'Mick K, Kitterman Speed Shop'
-+++
+---
+date: 2024-10-06T22:00
+draft: false
+params:
+  author: Mick K, Kitterman Speed Shop
+title: Kester Super Speedway, Oct 6
+---
 
 # Welcome Race Fans
 What a great day for racing! We had four members of our league out racing and what a day it was!
